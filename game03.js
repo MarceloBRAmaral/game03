@@ -15,7 +15,7 @@
 //3. player HP / loose HP when colliding with the enemy / enemy dies with collision
 //4. name anonymous functions
 //
-//By Marcelo Silva
+//By Marcelo Amaral
 
 //canvas definition
 var document;var window;var init;
