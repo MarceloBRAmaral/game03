@@ -9,6 +9,7 @@ Enemies are still red boxes.
 The player is aways shooting. The shoots have sound.
 
 //ANIMATION GAME v. 03
+
 //This release adds:
 //1. bullets to the player
 //2. bullet sound
